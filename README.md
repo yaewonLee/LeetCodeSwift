@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -20,10 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0792-binary-search) |
 | [1651-shuffle-string](https://github.com/yaewonLee/LeetCodeSwift/tree/master/1651-shuffle-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
