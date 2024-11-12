@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0792-binary-search) |
 | [1651-shuffle-string](https://github.com/yaewonLee/LeetCodeSwift/tree/master/1651-shuffle-string) |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
