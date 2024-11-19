@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yaewonLee/LeetCodeSwift/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/yaewonLee/LeetCodeSwift/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/yaewonLee/LeetCodeSwift/tree/master/1651-shuffle-string) |
 | [2825-minimize-string-length](https://github.com/yaewonLee/LeetCodeSwift/tree/master/2825-minimize-string-length) |
 ## Array
